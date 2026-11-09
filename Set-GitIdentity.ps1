@@ -10,7 +10,7 @@
     Restart VS Code afterwards so it picks up the environment variable.
 #>
 param(
-    [string]$Name  = 'David Christiansson',
+    [string]$Name = 'David Christiansson',
     [string]$Email = 'david@christiansson.name'
 )
 
